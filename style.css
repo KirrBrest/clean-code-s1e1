@@ -1,4 +1,8 @@
 /* Basic Style */
+.first-title {
+  display: none;
+}
+
 .page {
   background-color: #f8f8f8;
   color: #333;
@@ -42,6 +46,10 @@
 
 .add-item__wrapper {
   display: flex;
+}
+
+.add-item {
+  margin: 32px 0 0;
 }
 
 ul {
