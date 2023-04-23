@@ -16,7 +16,7 @@
   text-align: right;
 }
 
-.hero-img {
+.hero__img {
   width: 100%;
 }
 
@@ -110,7 +110,7 @@ h3 {
 }
 
 /* New Task */
-.add-item-name {
+.add-item__name {
   display: block;
   margin: 0 0 20px;
 }
